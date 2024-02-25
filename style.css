@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    list-style: none;
+}
+
+.ul-first{
+    display: flex;
+    justify-content: space-around;
+}
+
+.h3-first{
+    display: flex;
+    justify-content: center;
+}
+
+.h1-first{
+    display: flex;
+    justify-content: center;
+}
+
+.p-first{
+    display: flex;
+    justify-content: center;
+}
+
+.ul-second{
+    display: flex;
+    justify-content: center;
+}
+
+.h2-first{
+    display: flex;
+    justify-content: center;
+}
+
+.div-first{
+    display: flex;
+    justify-content: space-around;
+}
+
